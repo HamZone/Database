@@ -3,6 +3,7 @@
 -- Generation Time: 2020-02-04 00:02:20
 -- Thanks Emin.lin & ShuJing.lin
 -- 题目来源 CRAC
+-- https://github.com/HamZone
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
