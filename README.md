@@ -2,6 +2,5 @@
 | 文件夹       | 包含文件                                                     |
 | ------------ | ------------------------------------------------------------ |
 | Exam         | 业余无线电 A 类题库 SQL 文件                                 |
-| CRAC_License | CRAC公布的操作证名单[数据来源点击此处](http://www.crac.org.cn/News/Detail?ID=202a18b416744e8d9f836708184bcd8b) |
-|              |                                                              |
+| CRAC_License | CRAC公布的操作证名单[数据来源点击此处](http://www.crac.org.cn/News/Detail?ID=202a18b416744e8d9f836708184bcd8b) (2020年01月14日数据，未导入香港相关文件) |
 
