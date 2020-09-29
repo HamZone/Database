@@ -1,7 +1,7 @@
 -- Hamzone.cn
 -- 请注意此项目保留MIT协议
 -- Generation Time: 2020-02-04 00:02:20
--- Thanks Emin.lin & ShuJing.lin
+-- Thanks Emin.lin (BG5UWQ) & ShuJing.lin
 -- 题目来源 CRAC
 -- https://github.com/HamZone
 
@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `exam_a` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=363 ;
 
 --
--- 转存表中的数据 `hz_tools_exam_a`
+-- 转存表中的数据 `exam_a`
 --
 
 INSERT INTO `exam_a` (`topic_id`, `topic_title`, `option_a`, `option_b`, `option_c`, `option_d`, `time`) VALUES
