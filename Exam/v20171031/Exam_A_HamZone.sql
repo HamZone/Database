@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `exam_a` (
   `option_d` varchar(500) NOT NULL,
   `time` varchar(30) NOT NULL,
   PRIMARY KEY (`topic_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=363 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=0 ;
 
 --
 -- 转存表中的数据 `exam_a`
